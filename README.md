@@ -10,7 +10,8 @@ Se o volume atingir
 esse limite, o sistema deve travar a entrada de líquido e acionar um sinal de
 "Nível Crítico" para evitar transbordamento.
 
-2. O Desafio:Você foi designado para criar o protótipo da interface de monitoramento
+Desafio:
+Você foi designado para criar o protótipo da interface de monitoramento
 (IHM) deste tanque. A interface deve permitir simular o enchimento, exibir
 o volume atual e possuir um mecanismo de esvaziamento total (Reset) para limpeza do tanque.
 
